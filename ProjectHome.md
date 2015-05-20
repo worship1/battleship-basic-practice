@@ -1,0 +1,1 @@
+Developed from Codeacademy lessons; offers an opportunity to develop Python programming skills.
